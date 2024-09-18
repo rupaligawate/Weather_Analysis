@@ -1,0 +1,1 @@
+SELECT * FROM weather_analytics.wind_speed;
